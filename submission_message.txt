@@ -1,0 +1,12 @@
+Student Name: IKEJE CHRISTIAN AKACHUKWU
+Matriculation Number: 25/16116
+Programme: [Your Programme]
+Course: COS 201 — Computer Programming I
+Week: 3
+GitHub Repository URL: [Paste your actual repository URL]
+Programs submitted:
+SimpleCalculator.java
+AverageCalculator.java
+ItemCost.java
+I have saved the source code, tested the programs and pushed the required files to GitHub. The README file contains instructions for compiling and running the programs.
+Thank you.
